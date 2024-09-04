@@ -3,6 +3,7 @@
 In the copper industry, data related to sales and pricing, though less complex, often suffers from skewness and noise, which can hinder accurate manual predictions and optimal pricing decisions. Addressing these issues manually is time-consuming and prone to errors.
 
 Solution Approach:
+
 Data Transformation and Pre-processing:
 Transform the data into a suitable format and perform necessary cleaning and pre-processing steps. This includes normalizing and scaling the data to handle skewness, as well as addressing any outliers detected.
 
